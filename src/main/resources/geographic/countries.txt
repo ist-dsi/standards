@@ -1,263 +1,260 @@
-VU	VUT	548	Vanuatu
-VN	VNM	704	Vietnam
-EC	ECU	218	Ecuador
-VI	VIR	850	U.S. Virgin Islands
-DZ	DZA	012	Algeria
-VG	VGB	092	British Virgin Islands
-VE	VEN	862	Venezuela
-DM	DMA	212	Dominica
-VD	VDR	704	North Vietnam
-VC	VCT	670	Saint Vincent and the Grenadines
-DO	DOM	214	Dominican Republic
-VA	VAT	336	Vatican City
-DE	DEU	276	Germany
+AW	ABW	533	Aruba
+AF	AFG	4	Afghanistan
+AO	AGO	24	Angola
+AI	AIA	660	Anguilla
+AX	ALA	248	Åland Islands
+AL	ALB	8	Albania
+AD	AND	20	Andorra
+AN	ANT	530	Netherlands Antilles
+AE	ARE	784	United Arab Emirates
+AR	ARG	32	Argentina
+AM	ARM	51	Armenia
+AS	ASM	16	American Samoa
+AQ	ATA	10	Antarctica
+BQ	ATB	80	British Antarctic Territory
+FQ	ATF	260	French Southern and Antarctic Territories
+AG	ATG	28	Antigua and Barbuda
+NQ	ATN	216	Dronning Maud Land
+AU	AUS	36	Australia
+AT	AUT	40	Austria
+AZ	AZE	31	Azerbaijan
+BI	BDI	108	Burundi
+BE	BEL	56	Belgium
+BJ	BEN	204	Benin
+BF	BFA	854	Burkina Faso
+BD	BGD	50	Bangladesh
+BG	BGR	100	Bulgaria
+BH	BHR	48	Bahrain
+BS	BHS	44	Bahamas
+BA	BIH	70	Bosnia and Herzegovina
+BL	BLM	652	Saint Barthélemy
+BY	BLR	112	Belarus
+BZ	BLZ	84	Belize
+BM	BMU	60	Bermuda
+BO	BOL	68	Bolivia
+BR	BRA	76	Brazil
+BB	BRB	52	Barbados
+BN	BRN	96	Brunei
+BT	BTN	64	Bhutan
+BV	BVT	74	Bouvet Island
+BW	BWA	72	Botswana
+CF	CAF	140	Central African Republic
+CA	CAN	124	Canada
+CC	CCK	166	Cocos [Keeling] Islands
+CH	CHE	756	Switzerland
+CL	CHL	152	Chile
+CN	CHN	156	China
+CI	CIV	384	Côte d’Ivoire
+CM	CMR	120	Cameroon
+CD	COD	180	Congo - Kinshasa
+CG	COG	178	Congo - Brazzaville
+CK	COK	184	Cook Islands
+CO	COL	170	Colombia
+KM	COM	174	Comoros
+CV	CPV	132	Cape Verde
+CR	CRI	188	Costa Rica
+CT	CTE	128	Canton and Enderbury Islands
+CU	CUB	192	Cuba
+CX	CXR	162	Christmas Island
+KY	CYM	136	Cayman Islands
+CY	CYP	196	Cyprus
+CZ	CZE	203	Czech Republic
 DD	DDR	278	East Germany
-UZ	UZB	860	Uzbekistan
-UY	URY	858	Uruguay
-DK	DNK	208	Denmark
+DE	DEU	276	Germany
 DJ	DJI	262	Djibouti
-US	USA	840	United States
-UM	UMI	581	U.S. Minor Outlying Islands
-UG	UGA	800	Uganda
-UA	UKR	804	Ukraine
-ET	ETH	231	Ethiopia
-ES	ESP	724	Spain
+DM	DMA	212	Dominica
+DK	DNK	208	Denmark
+DO	DOM	214	Dominican Republic
+DZ	DZA	12	Algeria
+EC	ECU	218	Ecuador
+EG	EGY	818	Egypt
 ER	ERI	232	Eritrea
 EH	ESH	732	Western Sahara
-EG	EGY	818	Egypt
-TZ	TZA	834	Tanzania
+ES	ESP	724	Spain
 EE	EST	233	Estonia
-TT	TTO	780	Trinidad and Tobago
-TW	TWN	158	Taiwan
-TV	TUV	798	Tuvalu
-GD	GRD	308	Grenada
-GE	GEO	268	Georgia
-GF	GUF	254	French Guiana
-GA	GAB	266	Gabon
-GB	GBR	826	United Kingdom
-FX	FXX	249	Metropolitan France
+ET	ETH	231	Ethiopia
+FI	FIN	246	Finland
+FJ	FJI	242	Fiji
+FK	FLK	238	Falkland Islands
 FR	FRA	250	France
 FO	FRO	234	Faroe Islands
-FQ	ATF	260	French Southern and Antarctic Territories
-FK	FLK	238	Falkland Islands
-FJ	FJI	242	Fiji
 FM	FSM	583	Micronesia
-FI	FIN	246	Finland
-WS	WSM	882	Samoa
-WK	WAK	872	Wake Island
-GY	GUY	328	Guyana
-GW	GNB	624	Guinea-Bissau
-GU	GUM	316	Guam
-GT	GTM	320	Guatemala
-GS	SGS	239	South Georgia and the South Sandwich Islands
-GR	GRC	300	Greece
-GQ	GNQ	226	Equatorial Guinea
-WF	WLF	876	Wallis and Futuna
-GP	GLP	312	Guadeloupe
-GN	GIN	324	Guinea
-GM	GMB	270	Gambia
-GL	GRL	304	Greenland
-GI	GIB	292	Gibraltar
-GH	GHA	288	Ghana
+FX	FXX	249	Metropolitan France
+GA	GAB	266	Gabon
+GB	GBR	826	United Kingdom
+GE	GEO	268	Georgia
 GG	GGY	831	Guernsey
-RE	REU	638	Réunion
-RO	ROU	642	Romania
-AT	AUT	040	Austria
-AS	ASM	016	American Samoa
-AR	ARG	032	Argentina
-AQ	ATA	010	Antarctica
-AX	ALA	248	Åland Islands
-AW	ABW	533	Aruba
-QA	QAT	634	Qatar
-AU	AUS	036	Australia
-AZ	AZE	031	Azerbaijan
-BA	BIH	070	Bosnia and Herzegovina
-PT	PRT	620	Portugal
-PU	PUS	849	U.S. Miscellaneous Pacific Islands
-AD	AND	020	Andorra
-PW	PLW	585	Palau
-AG	ATG	028	Antigua and Barbuda
-AE	ARE	784	United Arab Emirates
-PR	PRI	630	Puerto Rico
-AF	AFG	004	Afghanistan
-PS	PSE	275	Palestinian Territories
-AL	ALB	008	Albania
-AI	AIA	660	Anguilla
-AO	AGO	024	Angola
-PY	PRY	600	Paraguay
-AM	ARM	051	Armenia
-PZ	PCZ	594	Panama Canal Zone
-AN	ANT	530	Netherlands Antilles
-TG	TGO	768	Togo
-BW	BWA	072	Botswana
-TF	ATF	260	French Southern Territories
-BV	BVT	074	Bouvet Island
-BY	BLR	112	Belarus
-TD	TCD	148	Chad
-TK	TKL	772	Tokelau
-BS	BHS	044	Bahamas
-TJ	TJK	762	Tajikistan
-BR	BRA	076	Brazil
-TH	THA	764	Thailand
-BT	BTN	064	Bhutan
-TO	TON	776	Tonga
-TN	TUN	788	Tunisia
-TM	TKM	795	Turkmenistan
-TL	TLS	626	Timor-Leste
-CA	CAN	124	Canada
-TR	TUR	792	Turkey
-BZ	BLZ	084	Belize
-SU	SUN	810	Union of Soviet Socialist Republics
-BF	BFA	854	Burkina Faso
-SV	SLV	222	El Salvador
-BG	BGR	100	Bulgaria
-BH	BHR	048	Bahrain
-ST	STP	678	São Tomé and Príncipe
-BI	BDI	108	Burundi
-SY	SYR	760	Syria
-BB	BRB	052	Barbados
-SZ	SWZ	748	Swaziland
-BD	BGD	050	Bangladesh
-BE	BEL	056	Belgium
-BN	BRN	096	Brunei
-BO	BOL	068	Bolivia
-BQ	ATB	080	British Antarctic Territory
-BJ	BEN	204	Benin
-TC	TCA	796	Turks and Caicos Islands
-BL	BLM	652	Saint Barthélemy
-BM	BMU	060	Bermuda
-SD	SDN	736	Sudan
-CZ	CZE	203	Czech Republic
-SC	SYC	690	Seychelles
-CY	CYP	196	Cyprus
-CX	CXR	162	Christmas Island
-SE	SWE	752	Sweden
-SH	SHN	654	Saint Helena
-CV	CPV	132	Cape Verde
-SG	SGP	702	Singapore
-CU	CUB	192	Cuba
-SJ	SJM	744	Svalbard and Jan Mayen
-CT	CTE	128	Canton and Enderbury Islands
-SI	SVN	705	Slovenia
-CS	SCG	891	Serbia and Montenegro
-SL	SLE	694	Sierra Leone
-SK	SVK	703	Slovakia
-SN	SEN	686	Senegal
-SM	SMR	674	San Marino
-SO	SOM	706	Somalia
-SR	SUR	740	Suriname
-CI	CIV	384	Côte d’Ivoire
-RS	SCG	688	Serbia
-CG	COG	178	Congo - Brazzaville
-CH	CHE	756	Switzerland
-RU	RUS	643	Russia
-RW	RWA	646	Rwanda
-CF	CAF	140	Central African Republic
-CC	CCK	166	Cocos [Keeling] Islands
-CD	COD	180	Congo - Kinshasa
-CR	CRI	188	Costa Rica
-CO	COL	170	Colombia
-CM	CMR	120	Cameroon
-CN	CHN	156	China
-SA	SAU	682	Saudi Arabia
-CK	COK	184	Cook Islands
-SB	SLB	090	Solomon Islands
-CL	CHL	152	Chile
-LV	LVA	428	Latvia
-LU	LUX	442	Luxembourg
-LT	LTU	440	Lithuania
-LY	LBY	434	Libya
-LS	LSO	426	Lesotho
-LR	LBR	430	Liberia
-MG	MDG	450	Madagascar
-MH	MHL	584	Marshall Islands
-ME	MNE	499	Montenegro
-MF	MAF	663	Saint Martin
-MK	MKD	807	Macedonia
-ML	MLI	466	Mali
-MI	MID	488	Midway Islands
-MC	MCO	492	Monaco
-MD	MDA	498	Moldova
-MA	MAR	504	Morocco
-MV	MDV	462	Maldives
-MU	MUS	480	Mauritius
-MX	MEX	484	Mexico
-MW	MWI	454	Malawi
-MZ	MOZ	508	Mozambique
-MY	MYS	458	Malaysia
-MN	MNG	496	Mongolia
-MM	MMR	104	Myanmar [Burma]
-MP	MNP	580	Northern Mariana Islands
-MO	MAC	446	Macau SAR China
-MR	MRT	478	Mauritania
-MQ	MTQ	474	Martinique
-MT	MLT	470	Malta
-MS	MSR	500	Montserrat
-NF	NFK	574	Norfolk Island
-NG	NGA	566	Nigeria
-NI	NIC	558	Nicaragua
-NL	NLD	528	Netherlands
-NA	NAM	516	Namibia
-NC	NCL	540	New Caledonia
-NE	NER	562	Niger
-NZ	NZL	554	New Zealand
-NU	NIU	570	Niue
-NT	NTZ	536	Neutral Zone
-NR	NRU	520	Nauru
-NQ	ATN	216	Dronning Maud Land
-NP	NPL	524	Nepal
-NO	NOR	578	Norway
-OM	OMN	512	Oman
-PL	POL	616	Poland
-PM	SPM	666	Saint Pierre and Miquelon
-PN	PCN	612	Pitcairn Islands
-PH	PHL	608	Philippines
-PK	PAK	586	Pakistan
-PE	PER	604	Peru
-PF	PYF	258	French Polynesia
-PG	PNG	598	Papua New Guinea
-PA	PAN	591	Panama
-PC	PCI	582	Pacific Islands Trust Territory
+GH	GHA	288	Ghana
+GI	GIB	292	Gibraltar
+GN	GIN	324	Guinea
+GP	GLP	312	Guadeloupe
+GM	GMB	270	Gambia
+GW	GNB	624	Guinea-Bissau
+GQ	GNQ	226	Equatorial Guinea
+GR	GRC	300	Greece
+GD	GRD	308	Grenada
+GL	GRL	304	Greenland
+GT	GTM	320	Guatemala
+GF	GUF	254	French Guiana
+GU	GUM	316	Guam
+GY	GUY	328	Guyana
 HK	HKG	344	Hong Kong SAR China
-ZA	ZAF	710	South Africa
-HN	HND	340	Honduras
 HM	HMD	334	Heard Island and McDonald Islands
+HN	HND	340	Honduras
 HR	HRV	191	Croatia
 HT	HTI	332	Haiti
 HU	HUN	348	Hungary
-ZM	ZMB	894	Zambia
-ZW	ZWE	716	Zimbabwe
 ID	IDN	360	Indonesia
-IE	IRL	372	Ireland
-IL	ISR	376	Israel
 IM	IMN	833	Isle of Man
 IN	IND	356	India
-IO	IOT	086	British Indian Ocean Territory
-IQ	IRQ	368	Iraq
+IO	IOT	86	British Indian Ocean Territory
+IE	IRL	372	Ireland
 IR	IRN	364	Iran
-YE	YEM	887	Yemen
+IQ	IRQ	368	Iraq
 IS	ISL	352	Iceland
+IL	ISR	376	Israel
 IT	ITA	380	Italy
-YD	YEM	720	People's Democratic Republic of Yemen
-JE	JEY	832	Jersey
-YT	MYT	175	Mayotte
-JP	JPN	392	Japan
-JO	JOR	400	Jordan
 JM	JAM	388	Jamaica
+JE	JEY	832	Jersey
+JO	JOR	400	Jordan
+JP	JPN	392	Japan
 JT	JTN	396	Johnston Island
-KI	KIR	296	Kiribati
-KH	KHM	116	Cambodia
-KG	KGZ	417	Kyrgyzstan
-KE	KEN	404	Kenya
-KP	PRK	408	North Korea
-KR	KOR	410	South Korea
-KM	COM	174	Comoros
-KN	KNA	659	Saint Kitts and Nevis
-KW	KWT	414	Kuwait
-KY	CYM	136	Cayman Islands
 KZ	KAZ	398	Kazakhstan
+KE	KEN	404	Kenya
+KG	KGZ	417	Kyrgyzstan
+KH	KHM	116	Cambodia
+KI	KIR	296	Kiribati
+KN	KNA	659	Saint Kitts and Nevis
+KR	KOR	410	South Korea
+KW	KWT	414	Kuwait
 LA	LAO	418	Laos
-LC	LCA	662	Saint Lucia
 LB	LBN	422	Lebanon
+LR	LBR	430	Liberia
+LY	LBY	434	Libya
+LC	LCA	662	Saint Lucia
 LI	LIE	438	Liechtenstein
 LK	LKA	144	Sri Lanka
+LS	LSO	426	Lesotho
+LT	LTU	440	Lithuania
+LU	LUX	442	Luxembourg
+LV	LVA	428	Latvia
+MO	MAC	446	Macau SAR China
+MF	MAF	663	Saint Martin
+MA	MAR	504	Morocco
+MC	MCO	492	Monaco
+MD	MDA	498	Moldova
+MG	MDG	450	Madagascar
+MV	MDV	462	Maldives
+MX	MEX	484	Mexico
+MH	MHL	584	Marshall Islands
+MI	MID	488	Midway Islands
+MK	MKD	807	Macedonia
+ML	MLI	466	Mali
+MT	MLT	470	Malta
+MM	MMR	104	Myanmar [Burma]
+ME	MNE	499	Montenegro
+MN	MNG	496	Mongolia
+MP	MNP	580	Northern Mariana Islands
+MZ	MOZ	508	Mozambique
+MR	MRT	478	Mauritania
+MS	MSR	500	Montserrat
+MQ	MTQ	474	Martinique
+MU	MUS	480	Mauritius
+MW	MWI	454	Malawi
+MY	MYS	458	Malaysia
+YT	MYT	175	Mayotte
+NA	NAM	516	Namibia
+NC	NCL	540	New Caledonia
+NE	NER	562	Niger
+NF	NFK	574	Norfolk Island
+NG	NGA	566	Nigeria
+NI	NIC	558	Nicaragua
+NU	NIU	570	Niue
+NL	NLD	528	Netherlands
+NO	NOR	578	Norway
+NP	NPL	524	Nepal
+NR	NRU	520	Nauru
+NT	NTZ	536	Neutral Zone
+NZ	NZL	554	New Zealand
+OM	OMN	512	Oman
+PK	PAK	586	Pakistan
+PA	PAN	591	Panama
+PC	PCI	582	Pacific Islands Trust Territory
+PN	PCN	612	Pitcairn Islands
+PZ	PCZ	594	Panama Canal Zone
+PE	PER	604	Peru
+PH	PHL	608	Philippines
+PW	PLW	585	Palau
+PG	PNG	598	Papua New Guinea
+PL	POL	616	Poland
+PR	PRI	630	Puerto Rico
+KP	PRK	408	North Korea
+PT	PRT	620	Portugal
+PY	PRY	600	Paraguay
+PS	PSE	275	Palestinian Territories
+PU	PUS	849	U.S. Miscellaneous Pacific Islands
+PF	PYF	258	French Polynesia
+QA	QAT	634	Qatar
+RE	REU	638	Réunion
+RO	ROU	642	Romania
+RU	RUS	643	Russia
+RW	RWA	646	Rwanda
+SA	SAU	682	Saudi Arabia
+CS	SCG	891	Serbia and Montenegro
+RS	SRB	688	Serbia
+SD	SDN	736	Sudan
+SN	SEN	686	Senegal
+SG	SGP	702	Singapore
+GS	SGS	239	South Georgia and the South Sandwich Islands
+SH	SHN	654	Saint Helena
+SJ	SJM	744	Svalbard and Jan Mayen
+SB	SLB	90	Solomon Islands
+SL	SLE	694	Sierra Leone
+SV	SLV	222	El Salvador
+SM	SMR	674	San Marino
+SO	SOM	706	Somalia
+PM	SPM	666	Saint Pierre and Miquelon
+ST	STP	678	São Tomé and Príncipe
+SU	SUN	810	Union of Soviet Socialist Republics
+SR	SUR	740	Suriname
+SK	SVK	703	Slovakia
+SI	SVN	705	Slovenia
+SE	SWE	752	Sweden
+SZ	SWZ	748	Swaziland
+SC	SYC	690	Seychelles
+SY	SYR	760	Syria
+TC	TCA	796	Turks and Caicos Islands
+TD	TCD	148	Chad
+TG	TGO	768	Togo
+TH	THA	764	Thailand
+TJ	TJK	762	Tajikistan
+TK	TKL	772	Tokelau
+TM	TKM	795	Turkmenistan
+TL	TLS	626	Timor-Leste
+TO	TON	776	Tonga
+TT	TTO	780	Trinidad and Tobago
+TN	TUN	788	Tunisia
+TR	TUR	792	Turkey
+TV	TUV	798	Tuvalu
+TW	TWN	158	Taiwan
+TZ	TZA	834	Tanzania
+UG	UGA	800	Uganda
+UA	UKR	804	Ukraine
+UM	UMI	581	U.S. Minor Outlying Islands
+UY	URY	858	Uruguay
+US	USA	840	United States
+UZ	UZB	860	Uzbekistan
+VA	VAT	336	Vatican City
+VC	VCT	670	Saint Vincent and the Grenadines
+VE	VEN	862	Venezuela
+VG	VGB	92	British Virgin Islands
+VI	VIR	850	U.S. Virgin Islands
+VN	VNM	704	Vietnam
+VU	VUT	548	Vanuatu
+WK	WAK	872	Wake Island
+WF	WLF	876	Wallis and Futuna
+WS	WSM	882	Samoa
+YE	YEM	887	Yemen
+ZA	ZAF	710	South Africa
+ZM	ZMB	894	Zambia
+ZW	ZWE	716	Zimbabwe
