@@ -20,6 +20,19 @@
 		<tag>HEAD</tag>
 	</scm>
 
+	 <issueManagement>
+        <system>JIRA</system>
+        <url>https://jira.fenixedu.org/browse/STD</url>
+    </issueManagement>
+
+	<licenses>
+        <license>
+            <name>GNU Lesser General Public License v3.0</name>
+            <url>https://www.gnu.org/licenses/lgpl-3.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
 	<dependencies>
 		<dependency>
 			<groupId>com.google.code.gson</groupId>
