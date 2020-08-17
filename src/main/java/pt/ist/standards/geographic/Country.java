@@ -1,5 +1,7 @@
 package pt.ist.standards.geographic;
 
+import org.fenixedu.utf8.resources.UTF8ResourceBundleControl;
+
 import java.util.HashMap;
 import java.util.Locale;
 import java.util.Map;
@@ -32,7 +34,7 @@ public class Country extends Place<Planet, District> {
     }
 
     private String getResource(final String bundleName, final Locale locale) {
-        final ResourceBundle resourceBundle = ResourceBundle.getBundle(bundleName, locale);
+        final ResourceBundle resourceBundle = ResourceBundle.getBundle(bundleName, locale, new UTF8ResourceBundleControl());
         return resourceBundle.getString(alpha3);
     }
 
