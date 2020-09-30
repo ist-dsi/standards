@@ -4,6 +4,7 @@ import pt.ist.standards.util.ResourceReader;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.stream.Stream;
 
 public class DailingCode {
 
@@ -37,6 +38,12 @@ public class DailingCode {
 
     public static String countryFor(final String dailingCode) {
         return countryMap.get(dailingCode);
+    }
+
+    public static Stream<String> allowAlphaSenders() {
+        return allowAlphaMap.entrySet().stream()
+                .filter(e -> e.getValue().booleanValue())
+                .map(e -> e.getKey());
     }
 
 }
