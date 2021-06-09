@@ -79,7 +79,6 @@ FK	FLK	238	Falkland Islands
 FR	FRA	250	France
 FO	FRO	234	Faroe Islands
 FM	FSM	583	Micronesia
-FX	FXX	249	Metropolitan France
 GA	GAB	266	Gabon
 GB	GBR	826	United Kingdom
 GE	GEO	268	Georgia
