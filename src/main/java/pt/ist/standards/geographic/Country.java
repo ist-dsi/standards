@@ -6,6 +6,7 @@ import java.util.HashMap;
 import java.util.Locale;
 import java.util.Map;
 import java.util.ResourceBundle;
+import java.util.stream.Stream;
 
 public class Country extends Place<Planet, District> {
 
@@ -40,6 +41,10 @@ public class Country extends Place<Planet, District> {
 
     public PostalCode getPostalCode(final String code) {
         return postalCodeMap.get(code);
+    }
+
+    public Stream<String> getPostCodeStream() {
+        return postalCodeMap.keySet().stream();
     }
 
 }
