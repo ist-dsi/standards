@@ -24,6 +24,9 @@
 */
 package pt.ist.standards.util;
 
+import com.google.gson.JsonElement;
+import com.google.gson.JsonParser;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -37,7 +40,7 @@ import java.io.UnsupportedEncodingException;
  */
 public class ResourceReader {
 
-    public static String[] readLines(final String resource, final String encoding) {
+    public static String read(final String resource, final String encoding) {
         final InputStream inputStream = ResourceReader.class.getResourceAsStream(resource);
         try {
             final InputStreamReader fileReader = new InputStreamReader(inputStream, encoding);
@@ -47,7 +50,7 @@ public class ResourceReader {
                 for (int n = 0; (n = fileReader.read(buffer)) != -1; fileContents.append(buffer, 0, n)) {
                     ;
                 }
-                return fileContents.toString().split("\n");
+                return fileContents.toString();
             } catch (final IOException ex) {
                 throw new Error(ex);
             } finally {
@@ -62,8 +65,20 @@ public class ResourceReader {
         }
     }
 
+    public static String read(final String resource) {
+        return read(resource, "UTF-8");
+    }
+
+    public static String[] readLines(final String resource, final String encoding) {
+        return read(resource, encoding).split("\n");
+    }
+
     public static String[] readLines(final String resource) {
         return readLines(resource, "UTF-8");
+    }
+
+    public static JsonElement readJson(final String resource) {
+        return new JsonParser().parse(read(resource, "UTF-8"));
     }
 
 }
