@@ -253,7 +253,9 @@ VU	VUT	548	Vanuatu
 WK	WAK	872	Wake Island
 WF	WLF	876	Wallis and Futuna
 WS	WSM	882	Samoa
+XK	XKX	999	Kosovo
 YE	YEM	887	Yemen
+YU	YUG	891	Yugoslavia
 ZA	ZAF	710	South Africa
 ZM	ZMB	894	Zambia
 ZW	ZWE	716	Zimbabwe
