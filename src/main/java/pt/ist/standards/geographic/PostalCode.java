@@ -26,7 +26,7 @@ public class PostalCode extends Place<Locality, Place<PostalCode, ?>> {
     }
 
     public JsonObject getDetails() {
-        final String path = "/geographic/" + parent.parent.parent.parent.alpha3 + "/postalCode/" + code + ".json";
+        final String path = "/geographic/" + parent.parent.parent.parent.alpha3.toLowerCase() + "/postalCode/" + code + ".json";
         try {
             final JsonElement json = ResourceReader.readJson(path);
             return json == null || json.isJsonNull() ? null : json.isJsonObject() ? json.getAsJsonObject()
