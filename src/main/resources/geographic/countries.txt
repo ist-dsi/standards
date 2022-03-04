@@ -59,7 +59,6 @@ CX	CXR	162	Christmas Island
 KY	CYM	136	Cayman Islands
 CY	CYP	196	Cyprus
 CZ	CZE	203	Czech Republic
-DD	DDR	278	East Germany
 DE	DEU	276	Germany
 DJ	DJI	262	Djibouti
 DM	DMA	212	Dominica
