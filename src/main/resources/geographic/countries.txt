@@ -51,7 +51,7 @@ KM	COM	174	Comoros
 CV	CPV	132	Cape Verde
 CR	CRI	188	Costa Rica
 CU	CUB	192	Cuba
-CW  CUW 531 Curaçao
+CW	CUW	531	Curaçao
 CX	CXR	162	Christmas Island
 KY	CYM	136	Cayman Islands
 CY	CYP	196	Cyprus
@@ -209,12 +209,12 @@ SI	SVN	705	Slovenia
 SE	SWE	752	Sweden
 SZ	SWZ	748	Swaziland
 SC	SYC	690	Seychelles
-SS  SSD 728 South Sudan
-SX  SXM 534 Saint Martin (Dutch part)
+SS	SSD	728	South Sudan
+SX	SXM	534	Saint Martin (Dutch part)
 SY	SYR	760	Syria
 TC	TCA	796	Turks and Caicos Islands
 TD	TCD	148	Chad
-TF  ATF 260 French Southern Territories
+TF	ATF	260	French Southern Territories
 TG	TGO	768	Togo
 TH	THA	764	Thailand
 TJ	TJK	762	Tajikistan
