@@ -15,7 +15,7 @@ public class DailingCode {
     private static final Map<String, String> countryMap = new HashMap<>();
 
     static {
-        final String[] content = ResourceReader.readLines(RESOURCE_PATH + "dailingcode.txt", "UTF-8");
+        final String[] content = ResourceReader.readLines(RESOURCE_PATH + "dailingcode.txt");
         for (final String line : content) {
             final String[] ss = line.split("\t");
             final String alpha2 = ss[0];

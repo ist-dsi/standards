@@ -14,7 +14,7 @@ class DataLoader {
     }
 
     private static void loadCountryData(final Planet planet) {
-        final String[] content = ResourceReader.readLines(RESOURCE_PATH + "countries.txt", "ISO-8859-1");
+        final String[] content = ResourceReader.readLines(RESOURCE_PATH + "countries.txt");
         for (final String line : content) {
             final String[] ss = line.split("\t");
             final String alpha2 = ss[0];
@@ -39,7 +39,7 @@ class DataLoader {
     }
 
     private static void loadDistricts(final Country country, final String resourcePrefix) {
-        final String[] content = ResourceReader.readLines(resourcePrefix + "/districts.txt", "ISO-8859-1");
+        final String[] content = ResourceReader.readLines(resourcePrefix + "/districts.txt");
         for (int i = content.length; i-- > 0;) {
             final String line = content[i];
             final int s = line.indexOf(';');
@@ -52,7 +52,7 @@ class DataLoader {
     }
 
     private static void loadMunicipalities(final Country country, final String resourcePrefix) {
-        final String[] content = ResourceReader.readLines(resourcePrefix + "/municipalities.txt", "ISO-8859-1");
+        final String[] content = ResourceReader.readLines(resourcePrefix + "/municipalities.txt");
         for (final String line : content) {
             final int s1 = line.indexOf(';');
             final int s2 = line.indexOf(';', s1 + 1);
@@ -67,7 +67,7 @@ class DataLoader {
     }
 
     private static void loadPostalCodes(final Country country, final String resourcePrefix) {
-        final String[] content = ResourceReader.readLines(resourcePrefix + "/postalCodes.txt", "ISO-8859-1");
+        final String[] content = ResourceReader.readLines(resourcePrefix + "/postalCodes.txt");
         for (final String line : content) {
             final int s1 = line.indexOf(';');
             final int s2 = line.indexOf(';', s1 + 1);
@@ -113,7 +113,7 @@ class DataLoader {
     }
 
     private static void loadParishes(final Country country, final String resourcePrefix) {
-        final String[] content = ResourceReader.readLines(resourcePrefix + "/parishes.txt", "ISO-8859-1");
+        final String[] content = ResourceReader.readLines(resourcePrefix + "/parishes.txt");
         for (final String line : content) {
             final int s1 = line.indexOf(';');
             final int s2 = line.indexOf(';', s1 + 1);

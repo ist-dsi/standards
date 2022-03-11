@@ -70,7 +70,7 @@ public class ResourceReader {
     }
 
     public static String[] readLines(final String resource, final String encoding) {
-        return read(resource, encoding).split("\n");
+        return read(resource, encoding).split("\\r?\\n");
     }
 
     public static String[] readLines(final String resource) {
