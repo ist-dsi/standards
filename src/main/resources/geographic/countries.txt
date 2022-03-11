@@ -5,16 +5,13 @@ AI	AIA	660	Anguilla
 AX	ALA	248	Åland Islands
 AL	ALB	8	Albania
 AD	AND	20	Andorra
-AN	ANT	530	Netherlands Antilles
 AE	ARE	784	United Arab Emirates
 AR	ARG	32	Argentina
 AM	ARM	51	Armenia
 AS	ASM	16	American Samoa
 AQ	ATA	10	Antarctica
 BQ	ATB	80	British Antarctic Territory
-FQ	ATF	260	French Southern and Antarctic Territories
 AG	ATG	28	Antigua and Barbuda
-NQ	ATN	216	Dronning Maud Land
 AU	AUS	36	Australia
 AT	AUT	40	Austria
 AZ	AZE	31	Azerbaijan
@@ -53,8 +50,8 @@ CO	COL	170	Colombia
 KM	COM	174	Comoros
 CV	CPV	132	Cape Verde
 CR	CRI	188	Costa Rica
-CT	CTE	128	Canton and Enderbury Islands
 CU	CUB	192	Cuba
+CW  CUW 531 Curaçao
 CX	CXR	162	Christmas Island
 KY	CYM	136	Cayman Islands
 CY	CYP	196	Cyprus
@@ -116,7 +113,6 @@ JM	JAM	388	Jamaica
 JE	JEY	832	Jersey
 JO	JOR	400	Jordan
 JP	JPN	392	Japan
-JT	JTN	396	Johnston Island
 KZ	KAZ	398	Kazakhstan
 KE	KEN	404	Kenya
 KG	KGZ	417	Kyrgyzstan
@@ -145,7 +141,6 @@ MG	MDG	450	Madagascar
 MV	MDV	462	Maldives
 MX	MEX	484	Mexico
 MH	MHL	584	Marshall Islands
-MI	MID	488	Midway Islands
 MK	MKD	807	Macedonia
 ML	MLI	466	Mali
 MT	MLT	470	Malta
@@ -172,14 +167,11 @@ NL	NLD	528	Netherlands
 NO	NOR	578	Norway
 NP	NPL	524	Nepal
 NR	NRU	520	Nauru
-NT	NTZ	536	Neutral Zone
 NZ	NZL	554	New Zealand
 OM	OMN	512	Oman
 PK	PAK	586	Pakistan
 PA	PAN	591	Panama
-PC	PCI	582	Pacific Islands Trust Territory
 PN	PCN	612	Pitcairn Islands
-PZ	PCZ	594	Panama Canal Zone
 PE	PER	604	Peru
 PH	PHL	608	Philippines
 PW	PLW	585	Palau
@@ -190,7 +182,6 @@ KP	PRK	408	North Korea
 PT	PRT	620	Portugal
 PY	PRY	600	Paraguay
 PS	PSE	275	Palestinian Territories
-PU	PUS	849	U.S. Miscellaneous Pacific Islands
 PF	PYF	258	French Polynesia
 QA	QAT	634	Qatar
 RE	REU	638	Réunion
@@ -198,7 +189,6 @@ RO	ROU	642	Romania
 RU	RUS	643	Russia
 RW	RWA	646	Rwanda
 SA	SAU	682	Saudi Arabia
-CS	SCG	891	Serbia and Montenegro
 RS	SRB	688	Serbia
 SD	SDN	736	Sudan
 SN	SEN	686	Senegal
@@ -213,16 +203,18 @@ SM	SMR	674	San Marino
 SO	SOM	706	Somalia
 PM	SPM	666	Saint Pierre and Miquelon
 ST	STP	678	São Tomé and Príncipe
-SU	SUN	810	Union of Soviet Socialist Republics
 SR	SUR	740	Suriname
 SK	SVK	703	Slovakia
 SI	SVN	705	Slovenia
 SE	SWE	752	Sweden
 SZ	SWZ	748	Swaziland
 SC	SYC	690	Seychelles
+SS  SSD 728 South Sudan
+SX  SXM 534 Saint Martin (Dutch part)
 SY	SYR	760	Syria
 TC	TCA	796	Turks and Caicos Islands
 TD	TCD	148	Chad
+TF  ATF 260 French Southern Territories
 TG	TGO	768	Togo
 TH	THA	764	Thailand
 TJ	TJK	762	Tajikistan
@@ -249,7 +241,6 @@ VG	VGB	92	British Virgin Islands
 VI	VIR	850	U.S. Virgin Islands
 VN	VNM	704	Vietnam
 VU	VUT	548	Vanuatu
-WK	WAK	872	Wake Island
 WF	WLF	876	Wallis and Futuna
 WS	WSM	882	Samoa
 XK	XKX	999	Kosovo
